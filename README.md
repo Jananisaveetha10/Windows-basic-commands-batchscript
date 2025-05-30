@@ -1,4 +1,4 @@
-![Screenshot 2025-05-30 231139](https://github.com/user-attachments/assets/e98367d0-39bd-4a31-b705-010697406c57)# Windows-basic-commands-batchscript
+
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
@@ -105,7 +105,8 @@ echo Backup and deletion completed successfully!
 
 
 ## OUTPUT:
-![Uploading Screenshot 2025-05-30 231416.png…]()
+![Screenshot 2025-05-30 231416](https://github.com/user-attachments/assets/4d9c915f-f589-4cc1-9c36-01660c07e3e7)
+
 
 
 
